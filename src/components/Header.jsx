@@ -14,7 +14,7 @@ const Header = () => {
       <h2 className="title">Desarrollador Multiplataforma</h2>
       <div className="social-links">
         <a 
-          href="https://github.com/silviu-oprescu" 
+          href="https://github.com/SebaX5" 
           target="_blank" 
           rel="noreferrer"
           className="social-link"
